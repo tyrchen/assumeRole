@@ -1,0 +1,10 @@
+{
+  "Statement": [
+    {
+      "Effect": "Allow",
+      "Action": "sts:AssumeRole",
+      "Resource": "arn:aws:iam::<account-id>:role/test-role"
+    }
+  ],
+  "Version": "2012-10-17"
+}
