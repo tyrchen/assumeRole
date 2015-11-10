@@ -1,6 +1,6 @@
 # AWS 及 IAM 答疑
 
-以下是昨日的文章 [『深入了解IAM和访问控制』[(http://mp.weixin.qq.com/s?__biz=MzA3NDM0ODQwMw==&mid=400379741&idx=1&sn=8dd705c3ec9d8af89d38b3eaa10cafff#rd) 发布之后，一些读者的疑问。
+以下是昨日的文章 [『深入了解IAM和访问控制』](http://mp.weixin.qq.com/s?__biz=MzA3NDM0ODQwMw==&mid=400379741&idx=1&sn=8dd705c3ec9d8af89d38b3eaa10cafff#rd) 发布之后，一些读者的疑问。
 
 __Q: 我想开始学习 AWS，从哪里入手？__
 
